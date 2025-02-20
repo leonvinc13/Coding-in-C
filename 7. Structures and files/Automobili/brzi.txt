@@ -1,0 +1,8 @@
+Mercedes SL 63 AMG kabriolet 6208 525 5 250 1456262
+Porsche 911 Turbo Coupe coupe 3600 480 4 310 1403739
+Mercedes CL 500 coupe 5461 388 5 250 1119382
+Ferrari F430 coupe 4307 490 4 315 1074177
+BMW M6 coupe 2V 4999 507 5 250 1170963
+Mercedes SL 500 kabriolet 5461 388 5 250 1075319
+najbrzi je 911 Turbo Coupe, ubrzanje 4
+najskuplji je SL 63 AMG, cijena 1456262

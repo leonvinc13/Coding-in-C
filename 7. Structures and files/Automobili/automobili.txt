@@ -1,0 +1,764 @@
+Citroen#C4 1,4i#k limuzina 5V#1360#90#13#182#118800
+Ford#Fusion 1,4 TDCi#k limuzina 5V#1398#68#16#159#106752
+Suzuki#Swift 1,3#k limuzina 5V#1328#92#11#175#69500
+Renault#Grand Scenic 1,9 dCi#monovolumen#1870#130#9#192#184600
+Renault#Megane Grandtour 1,6 16v#karavan#1598#110#11#192#129400
+Citroen#C4 picasso 1,8i#monovolumen#1560#109#13#180#155600
+Mercedes#E 63 AMG#limuzina 4V#6208#514#5#250#958763
+Seat#Leon 1,6#k limuzina 5V#1595#102#10#184#121745
+Mercedes#SL 63 AMG#kabriolet#6208#525#5#250#1456262
+Renault#Clio Storia 1,2#k limuzina 3V#1149#60#15#158#75200
+Ford#Focus 1,6 TDCi#limuzina 4V#1560#90#13#177#121142
+Ford#Focus 1,4 16v#k limuzina 3V#1388#80#14#164#97338
+Volvo#XC 70 3,2#karavan#3192#238#9#215#405000
+Mazda#6 1,8i TE#limuzina 4V#1798#120#11#200#167684
+Skoda#Fabia 1,6 16v#k limuzina 5V#1598#105#12#185#114081
+BMW#530d#limuzina 4V#2993#235#7#250#422827
+Toyota#Auris 1,6#k limuzina 5V#1598#124#10#190#145757
+Mitsubishi#Grandis 2,8 DI-D#monovolumen#1968#136#11#195#190000
+Opel#Astra 1,7 CDTI#k limuzina 5V#1686#100#12#181#133303
+Mini#Cooper cabrio#kabriolet#1598#120#10#193#173416
+Porsche#911 Turbo Coupe#coupe#3600#480#4#310#1403739
+Opel#Vectra 1,9 CDTi#limuzina 4V#1910#120#12#200#183265
+Opel#Astra 1,6 Twinport#k limuzina 5V#1598#105#12#185#116405
+Fiat#Grande punto 1,2#k limuzina 3V#1242#65#15#155#82221
+Seat#Toledo 1,6 MPI#k limuzina 5V#1595#102#13#181#144167
+Skoda#Fabia Combi 1,9 TDI#karavan#1896#105#11#191#133400
+Dacia#Logan 1,5dCi#limuzina 4V#1461#70#16#155#82300
+Skoda#Roomster 1,9 TDI#k limuzina 5V#1896#105#12#182#132174
+Saab#9-5 Sedan Arc 1,9 TiD#limuzina 4V#1910#150#10#205#304000
+Volvo#S 40 1,6#limuzina 4V#1596#100#11#185#171750
+Fiat#Grande punto 1,3 JTD#k limuzina 3V#1248#75#14#165#96126
+Volkswagen#Beetle 1,9 TDI#k limuzina 3V#1896#105#12#180#178453
+Jeep#Grand Cherokee 3,0 CRD#terensko#2978#218#10#200#422498
+Opel#Vectra 3,0 DTI#limuzina 4V#2959#177#8#248#234230
+Volkswagen#Sharan 1,9 TDI#monovolumen#1896#115#14#181#240548
+Chevrolet#Lacetti 1,4#k limuzina 5V#1399#95#12#172#84143
+Ford#Mondeo 1,8 TDCi#karavan#1753#100#13#180#190639
+Toyota#Corolla Verso 1,6 VVT-i#monovolumen#1598#110#11#180#159903
+Chrysler#300C touring 3,0 CRD#karavan#2987#218#8#230#397388
+Seat#Cordoba 1,6 16v#limuzina 4V#1595#105#10#184#95746
+Ssangyong#Musso sport LUX#terensko#1874#120#16#155#170230
+Alfa Romeo#159 3,2 V6#limuzina 4V#3195#260#7#240#329300
+BMW#X3 2,0d#SUV#1995#177#9#206#324625
+Volkswagen#Passat 1,8 TSI#limuzina 4V#1798#160#9#220#202461
+Mitsubishi#Outlander 2,0 DI-D#SUV#1968#140#11#187#227990
+Opel#Antara 2,4#SUV#2405#140#12#175#223744
+Mercedes#CLS 350#limuzina 4V#3498#292#7#250#571594
+Skoda#Superb 1,9 TDI#limuzina 4V#1896#105#13#190#171806
+Toyota#Auris 2,0 D-4D#k limuzina 5V#1998#126#10#195#166877
+Skoda#Octavia Combi 2,0 TDI#karavan#1968#140#10#207#169630
+Mitsubishi#Colt CZ3 1,1#k limuzina 3V#1124#75#13#165#86900
+BMW#X5 3,0si#SUV#2996#272#8#210#501744
+Volvo#S 80 D5#limuzina 4V#2401#185#9#230#388950
+Lada#119 1,6i#k limuzina 5V#1596#82#14#160#56000
+Honda#Accord 2,2 i-DTEC#limuzina 4V#2199#150#10#212#229900
+Volkswagen#Caddy life 1,4#monovolumen#1390#80#17#151#136685
+Audi#A5 3,0 TDI quattro#coupe 2V#2967#240#6#250#390717
+Fiat#Grande punto 1,2#k limuzina 5V#1242#65#15#155#86291
+Renault#Koleos 2,0 dCi#terensko#1995#150#10#180#205000
+Opel#Astra 1,3 CDTI#k limuzina 5V#1248#90#14#172#126544
+Fiat#Idea 1,3 JTD 16v#monovolumen#1251#70#15#159#133511
+Renault#Megane Berline 1,4 16v#k limuzina 5V#1390#98#13#138#119400
+Ford#Focus 1,6 TDCi#k limuzina 5V#1560#90#13#177#117121
+Suzuki#Swift 1,25#k limuzina 5V#1248#70#15#165#97900
+Fiat#Punto 1,2#k limuzina 3V#1242#60#14#155#70004
+Toyota#Auris 2,2 D-4D#k limuzina 5V#2231#177#8#210#204292
+Fiat#Panda 1,2 8v 4x4#k limuzina 3V#1242#60#20#145#91686
+Volvo#S 80 2,4d#limuzina 4V#2401#163#10#210#336000
+Lancia#Ypsilon 1,4 8v#k limuzina 3V#1369#75#14#167#100230
+Suzuki#SX4 1,6#terensko#1586#107#12#170#109900
+Citroen#C5 2,2 HDI#karavan#2179#173#10#219#253900
+Alfa Romeo#159 1,9 JTD#limuzina 4V#1910#120#11#191#221260
+Honda#Civic 1,8#limuzina 4V#1798#140#9#200#144990
+Ford#C-Max 1,6i#monovolumen#1596#100#13#175#124815
+Seat#Ibiza 1,2 12v#k limuzina 5V#1198#170#15#163#83132
+Opel#Corsa 1,7 CDTI#k limuzina 3V#1686#125#10#190#138121
+Fiat#Idea 1,4 16v#monovolumen#1369#95#12#175#121264
+Peugeot#107 1,4 HDI#k limuzina 3V#1398#54#16#154#87200
+Renault#Laguna 2,0 16v#limuzina 4V#1997#140#9#210#182000
+Volkswagen#Golf Variant 1,9 TDI#karavan#1896#105#12#185#165451
+Mercedes#SLK 55 AMG#coupe#5439#360#5#250#661161
+Mercedes#S 500#limuzina 4V#5461#388#5#250#927364
+Volkswagen#Phaeton V6 TDI 4motion automatic#limuzina 4V#2967#233#9#236#516761
+Saab#9-3 Aero 2,8 V6 TS#limuzina 4V#2798#250#7#250#342000
+Mazda#MX-5 2,0i#kabriolet#1999#160#8#210#219848
+BMW#330i#limuzina 4V#2996#272#6#250#349106
+Mercedes#CLK 63 AMG#coupe#6208#481#5#250#885226
+Nissan#Qashqai 2,0#SUV#1997#141#10#195#160500
+Chevrolet#Tacuma 1,6#monovolumen#1598#105#12#180#116494
+Ford#Galaxy 2,0#monovolumen#1999#145#11#194#230154
+Fiat#Sedici 1,6 16v#k limuzina 5V#1586#107#11#170#123836
+Volvo#C 30 1,6#k limuzina 3V#1596#100#12#185#134250
+Mazda#3 1,6i TE#limuzina 4V#1598#105#12#174#126956
+Skoda#Octavia Combi 1,6#karavan#1595#102#12#188#130943
+Volkswagen#Jetta 2,0 FSI#limuzina 4V#1984#150#9#211#178812
+Mercedes#CLS 63 AMG#limuzina 4V#6208#514#5#250#105163
+Skoda#Octavia Combi 4x4 1,9 TDI#karavan#1896#105#13#175#177251
+Ford#Mondeo 2,0#karavan#1999#145#10#210#193413
+Subaru#Outback 2,5 MT#karavan#2457#165#10#198#304800
+Renault#Clio Grandtour 1,2#karavan#1149#75#11#167#99600
+Citroen#C2 1,6i 16v VTS#k limuzina 3V#1587#122#9#202#122300
+Audi#A6 2,7 TDI#limuzina 4V#2698#180#8#230#352346
+Hyundai#i30 1,6 CRDi#k limuzina 5V#1582#90#15#172#118512
+Rover#45 1,6 16v C1#limuzina 4V#1588#109#11#190#132224
+Mini#Cooper S#k limuzina 3V#1598#170#7#225#208369
+Dacia#Logam MCV 1,5 dCi#karavan#1461#70#18#150#92500
+Honda#Legend 3,5#limuzina 4V#3471#295#7#250#479990
+Seat#Ibiza 1,6 16v#k limuzina 5V#1598#105#11#185#94539
+Skoda#Roomster 1,4 TDI#k limuzina 5V#1422#80#15#165#133246
+Skoda#Octavia Combi 1,9 TDI 4x4#karavan#1896#105#13#181#176061
+Nissan#Qashqai 2,0 4x4#SUV#1997#141#10#190#208500
+Skoda#Octavia Tour 1,9 TDI#k limuzina 5V#1896#101#13#182#123928
+BMW#745d#limuzina 4V#4423#330#7#250#838298
+Skoda#Roomster 1,4 TDI#k limuzina 5V#1422#70#17#158#119349
+Seat#Altea Freetrack 2,0 TSI 4x4#monovolumen#1984#200#8#220#222969
+Land Rover#Defender 90 2,5 Td5#terensko#2494#122#17#135#207281
+Rover#45 1,6 16v C1#k limuzina 5V#1588#109#11#190#137269
+Honda#Accord 2,0#limuzina 4V#1997#156#9#215#189900
+Renault#Twingo 1,2 16v#k limuzina 3V#1149#75#12#170#77900
+Honda#FR-V 1,8#monovolumen#1799#150#11#190#189990
+Peugeot#207 1,4#k limuzina 3V#1360#75#16#170#86600
+Lancia#Musa 1,4 8v#k limuzina 5V#1368#75#14#163#103526
+Audi#A4 2,0 TDI#limuzina 4V#1968#143#9#215#261898
+Alfa Romeo#159 1,9 JTS#limuzina 4V#1859#160#10#212#213120
+Seat#Altea 2,0 TDI FR#monovolumen#1968#170#9#208#201361
+Fiat#500 1,2#k limuzina 3V#1242#69#13#160#85840
+Skoda#Octavia 1,4 16v#k limuzina 5V#1389#80#16#170#122820
+Volvo#C 70 2,4i#kabriolet#2435#140#11#205#299250
+Chevrolet#Lacetti 1,4#limuzina 4V#1399#95#12#172#102990
+Citroen#C8 2,0 HDI 16v#monovolumen#1997#107#13#174#245900
+BMW#330i#kabriolet#2996#272#7#250#450180
+Rover#25 1,6 16v C1#k limuzina 3V#1589#109#10#185#116888
+Opel#Tigra 1,8#2V#1796#125#9#205#140970
+Mini#Cooper#k limuzina 3V#1598#120#9#203#148797
+Fiat#Doblo panorama 1,9 JTD#k limuzina 5V#1910#120#11#174#139046
+Fiat#Bravo 1,4 16v#k limuzina 5V#1368#90#13#179#109962
+Renault#Twingo 1,2#k limuzina 3V#1149#60#15#154#64900
+Fiat#Bravo 1,9 JTD 16v#k limuzina 5V#1910#150#9#209#160884
+Seat#Alhambra 2,0#k limuzina 5V#1984#115#15#177#191364
+Saab#9-5 Wagon Arc 2,3 LPT#karavan#2290#185#9#225#336000
+Hyundai#Matrix 1,5 CRDi#monovolumen#1493#110#18#160#126570
+Toyota#Hilux Double Cab 2,5 D-4D#terensko#2494#120#15#155#216679
+Citroen#C5 2,0i#limuzina 4V#1997#143#11#210#191900
+Volvo#XC 60 2,4d#SUV#2400#163#11#195#314250
+Chevrolet#Lacetts sw 1,6#karavan#1598#109#11#187#107367
+Mercedes#B 180 CDI#k limuzina 5V#1992#109#11#183#212679
+Lexus#GS 460#limuzina 4V#4608#347#6#250#565360
+Mercedes#C 220 CDI#limuzina 4V#2148#170#9#229#293140
+Ford#C-Max 1,6 TDCi#monovolumen#1560#90#13#179#134162
+Jeep#Grand Cherokee 6,1 SRT8#terensko#6063#425#5#245#594456
+Citroen#C4 1,6i#k limuzina 5V#1587#109#11#194#135300
+Maserati#Spider 4,2#kabriolet#4244#390#5#283#91460
+Renault#Espace 2,0 dCi#monovolumen#1995#150#11#194#254000
+Toyota#Corolla Verso 2,2 D-4D#monovolumen#2231#136#10#195#177702
+Mazda#3 sport 2,3i MPS#k limuzina 5V#2261#260#6#250#220698
+Renault#Clio 1,2#k limuzina 5V#1149#75#15#167#94900
+Subaru#Impreza 2,0 R MT#k limuzina 5V#2457#230#6#230#182280
+Toyota#Yaris 1,4 D-4D#k limuzina 5V#1364#90#11#175#122415
+Hyundai#Sonata 2,0 CRDi#limuzina 4V#1991#140#11#203#187599
+Nissan#X-Trail 2,0 dCi XE#SUV#1995#150#11#188#231000
+Audi#A3 sb 1,9 TDI#k limuzina 5V#1896#105#12#187#193797
+Nissan#Tiida 1,6 sedan#limuzina 4V#1797#126#11#186#124000
+Alfa Romeo#Spider 2,2 JTS#coupe 2V#2198#185#9#217#295260
+Volkswagen#Golf 1,6#k limuzina 3V#1595#102#11#184#128682
+Citroen#C4 Grand Picasso 1,6 HDI#monovolumen#1560#110#13#180#178500
+Renault#Laguna 1,6 16v#limuzina 4V#1598#111#12#192#169000
+Rover#Streetwise 1,6 16v R1#k limuzina 3V#1589#110#10#185#130656
+Volkswagen#Sharan 2,0 TDI#monovolumen#1968#140#12#192#253072
+Volvo#C 70 T5#kabriolet#2521#220#8#240#374250
+Mercedes#GL 450#terensko#4663#340#7#235#841788
+Volkswagen#Touareg R5 TDI#SUV#2461#174#12#188#360044
+Hyundai#i30 1,6 CRDi HP#k limuzina 5V#1582#115#12#188#140205
+Hyundai#Accent 1,4#limuzina 4V#1399#96#12#177#80177
+Volvo#C 30 1,8#k limuzina 3V#1798#125#11#200#152250
+Seat#Alhambra 1,9 TDI#k limuzina 5V#1896#115#14#181#220150
+Toyota#RAV4 2,2 D-4D#SUV#2231#136#11#180#236258
+Skoda#Superb 2,0 TDI#limuzina 4V#1968#170#9#222#244634
+Mazda#6 sport combi CD140 CE#karavan#1998#140#10#204#190994
+Seat#Altea Freetrack 2,0 TDI 4x4#monovolumen#1968#170#9#208#232811
+BMW#525i#limuzina 4V#2996#218#7#248#362998
+Mercedes#E 280 CDI#limuzina 4V#2987#190#9#241#402824
+Chrysler#Grand Voyager 2,8 CRD automatic#monovolumen#2768#163#13#174#303351
+Volkswagen#Touareg V10 TDI automatic#SUV#4921#313#7#231#679715
+Renault#Kangoo 1,5 dCi#monovolumen#1461#70#20#147#110900
+Nissan#Micra 1,4#k limuzina 5V#1386#88#12#172#94500
+Audi#A4 cabriolet 2,0 TFSI#kabriolet#1984#200#8#233#340021
+Nissan#Note 1,4#k limuzina 5V#1386#88#13#176#96900
+Land Rover#Freelander 3,2#SUV#3192#233#9#200#359314
+Hyundai#i30 1,6 16v#k limuzina 5V#1591#116#11#188#130380
+Alfa Romeo#GT 2,0 JTS#coupe 2V#1969#165#9#216#228290
+Peugeot#407 2,0 HDi#limuzina 4V#1997#136#11#208#192400
+Jaguar#X-Type sw 2,0 d#karavan#1998#131#10#198#276458
+BMW#540i#limuzina 4V#4000#306#6#250#501645
+Hyundai#Santa Fe 2,7 V6 4WD#SUV#2656#187#10#190#254347
+Chrysler#Sebring 2,0 limited#limuzina 4V#1998#156#11#200#219956
+Kia#Cee'd 1,4#k limuzina 5V#1396#109#12#187#99990
+Opel#Vectra karavan 1,8 16v#karavan#1796#122#12#199#193197
+Citroen#C3 1,1i furio#k limuzina 5V#1124#60#16#157#87000
+Chevrolet#Captiva 2,0d#SUV#1991#150#11#186#254135
+Chevrolet#Lacetti 1,6#k limuzina 5V#1598#109#11#187#99987
+Seat#Leon 2,0 TSI#k limuzina 5V#1984#240#6#247#205291
+Seat#Altea XL 2,0 FSI#monovolumen#1984#150#10#206#179265
+Volkswagen#Golf 1,4#k limuzina 3V#1390#80#14#168#122813
+Chevrolet#Aveo 1,2 8v#k limuzina 3V#1150#72#14#157#64728
+BMW#330d#limuzina 4V#2993#231#7#250#340462
+Citroen#C3 1,4i#k limuzina 5V#1360#73#14#168#113500
+Hyundai#Getz 1,4#k limuzina 5V#1399#97#11#170#84413
+Peugeot#308 1,4 VTi#k limuzina 3V#1360#95#13#182#118400
+Opel#GT 2,0 turbo#coupe#1998#264#6#229#281152
+Renault#Clio Expression 1,5 dCi#k limuzina 5V#1461#85#11#174#118700
+BMW#740i#limuzina 4V#4000#306#7#250#694358
+Kia#Rio 1,4#limuzina 4V#1399#97#12#173#74990
+BMW#525d#limuzina 4V#2993#197#8#237#369886
+Skoda#Octavia Combi RS#karavan#1984#200#8#238#196455
+Seat#Altea 2,0 TDI#monovolumen#1968#140#10#201#176823
+Renault#Megane Berline 1,5 dCi#k limuzina 5V#1461#85#13#175#140100
+BMW#X3 2,0i#SUV#1995#150#12#198#293130
+Subaru#B9 Tribeca 3,6#terensko#3630#258#9#205#463000
+Chevrolet#Epica 2,0 24v#limuzina 4V#1993#144#10#207#163537
+Mazda#5 CD143 GT#monovolumen#1998#143#10#197#208739
+Smart#ForTwo coupe 52kW#coupe#999#71#13#145#88497
+Hyundai#Santa Fe 2,2 CRDI#SUV#2188#155#12#179#276268
+Renault#Kangoo 1,5 dCi#monovolumen#1461#110#13#170#131900
+Peugeot#Partner 1,6 HDi#monovolumen#1560#90#18#150#123900
+Mercedes#A 150#k limuzina 3V#1498#95#13#175#162780
+Fiat#Grande punto 1,4#k limuzina 3V#1368#77#13#165#83250
+Saab#9-3 Linear 1,8#limuzina 4V#1796#122#12#200#190000
+Audi#A3 sb 1,6#k limuzina 5V#1595#102#12#185#156714
+Chevrolet#Epica 2,0 d#limuzina 4V#1991#150#10#202#188468
+Ford#Fiesta 125i#k limuzina 5V#1242#75#15#163#77552
+Mazda#3 CD110 CE#limuzina 4V#1560#110#11#185#135332
+Audi#A4 cabriolet 1,8 T#kabriolet#1781#163#9#226#292297
+Skoda#Fabia Combi 1,4 TDI#karavan#1422#70#15#164#105533
+Volvo#S 60 2,5 T#limuzina 4V#2521#210#7#225#271500
+Opel#Vectra karavan 2,0#karavan#1998#175#9#222#231654
+Mercedes#CL 500#coupe#5461#388#5#250#1119382
+Peugeot#4007 2,2 HDi#SUV#2179#156#10#200#269990
+Fiat#Grande punto 1,9 JTD#k limuzina 5V#1910#120#10#190#142820
+Ford#Fiesta 14i#k limuzina 3V#1388#80#13#166#81267
+Mitsubishi#Outlander 2,4#SUV#2360#170#10#190#227990
+Skoda#Superb 1,4 TSI#limuzina 4V#1390#125#10#201#169610
+Volvo#V 50 1,6#karavan#1596#100#12#185#186750
+Jeep#Cherokee 3,7 limited automatic#terensko#3700#204#10#180#298896
+Kia#Pro cee'd 1,4#k limuzina 3V#1396#109#11#187#99990
+Rover#45 1,4 16v C1#limuzina 4V#1396#103#11#185#130337
+Chrysler#Sebring 2,7 limited#limuzina 4V#2736#186#9#210#262567
+Mitsubishi#Colt 1,1#k limuzina 5V#1124#75#13#165#90900
+Mazda#6 sport CD140 CE#k limuzina 5V#1998#140#10#204#186584
+Citroen#C4 picasso 1,8i#monovolumen#1749#125#12#185#167600
+Daihatsu#Coure 1,0#k limuzina 5V#998#70#12#160#80420
+Lexus#SC 430#kabriolet#4293#304#6#250#734450
+Smart#ForTwo cabrio pulse 62kW#kabriolet#999#84#17#145#132528
+Ford#Mondeo 2,0 TDCi#k limuzina 5V#1997#140#11#200#216233
+Saab#9-5 Sedan Arc 2,0 LPT#limuzina 4V#1985#150#10#215#288800
+Jeep#Compass 2,0 CRD#terensko#1968#140#11#187#210468
+Mazda#6 2,0i TE#limuzina 4V#1999#147#10#214#197284
+Volkswagen#Golf Variant 1,6#karavan#1595#102#12#184#147349
+BMW#116i#k limuzina 5V#1596#122#10#204#160615
+Honda#Jazz 1,4#monovolumen#1339#83#12#170#99900
+Nissan#Micra 1,2#k limuzina 3V#1240#65#14#167#74500
+Mercedes#G 500#terensko#4966#296#10#190#896479
+Mazda#5 CD110 CE#monovolumen#1998#110#13#179#171244
+Nissan#Qashqai 1,6#SUV#1598#115#12#175#139500
+Rover#45 2,0 16v TD C1#k limuzina 5V#1994#113#10#190#164217
+Hyundai#Sonata 2,0 16v GLS#limuzina 4V#1998#143#11#205#175578
+Renault#Megane Sedan 1,4 16v#limuzina 4V#1390#98#13#183#124200
+Daihatsu#Copen 1,3 DVVT#kabriolet#1298#87#10#180#154720
+Hyundai#Coupe 2,0 16v#coupe#1975#143#9#206#169545
+Seat#Cordoba 1,4 16v#limuzina 4V#1390#85#16#172#89399
+Volkswagen#Polo 1,4 TDI#k limuzina 3V#1422#70#15#164#99857
+Volkswagen#Golf Variant 2,0 TDI#karavan#1968#140#10#203#190288
+Toyota#Auris 1,4#k limuzina 3V#1398#97#13#170#112858
+Citroen#C-crosser 2,2 HDI#SUV#2179#160#10#200#270000
+Opel#Tigra 1,4#2V#1364#90#12#180#127650
+BMW#730d#limuzina 4V#2993#231#8#238#615846
+Fiat#Bravo 1,9 JTD#k limuzina 5V#1910#120#11#194#138106
+BMW#520d touring#karavan#1995#177#9#224#354139
+Peugeot#308 1,4 VTi#k limuzina 5V#1360#95#13#182#122900
+Jaguar#X-Type 2,0d#limuzina 4V#1998#131#10#201#250353
+BMW#635d#coupe 2V#2993#286#6#250#720288
+Opel#Zafira 1,6 16v#monovolumen#1598#105#14#176#139104
+Volkswagen#Eos 2,0 FSI#kabriolet#1984#150#10#210#213596
+Volkswagen#Jetta 1,6#limuzina 4V#1595#102#12#186#147346
+Volvo#S 60 2,4d#limuzina 4V#2401#126#12#200#239250
+BMW#325d#kabriolet#2993#197#8#233#430975
+Audi#A3 1,9 TDI#k limuzina 3V#1896#105#11#187#173435
+Jaguar#XF 2,7d#limuzina 4V#2720#207#8#229#433300
+Peugeot#207 1,4 16v#k limuzina 3V#1360#88#13#180#97100
+Mercedes#R 320 CDI#karavan#2987#224#9#222#511243
+Isuzu#D-max 4x4 2,5#terensko#2499#136#13#170#198890
+Seat#Altea 1,6#monovolumen#1595#102#13#181#129981
+Lexus#RX 400h#terensko#3311#211#8#200#533540
+Dacia#Logan 1,6#limuzina 4V#1598#90#12#175#71200
+Skoda#Fabia 1,4 TDI PD#k limuzina 5V#1422#80#13#172#106711
+Volkswagen#Cross Golf 1,9 TDI#k limuzina 5V#1896#105#12#183#192587
+Volvo#XC 90 D5 5sjedala#SUV#2401#185#11#195#393000
+Citroen#C4 1,6i 16v#k limuzina 3V#1587#110#11#194#145000
+Maserati#Coupe 4,2#coupe#4244#390#5#285#846886
+Jeep#Commander 3,0 CRD#terensko#2978#218#9#191#387514
+Audi#TT 2,0 TFSI#coupe 2V#1984#200#7#240#294901
+Seat#Altea 1,9 TDI#monovolumen#1896#105#12#183#148247
+Hyundai#Matrix 1,6 16v#monovolumen#1599#103#13#170#103284
+Audi#A6 avant 2,0 TFSI#karavan 5V#1984#170#9#223#333855
+Saab#9-3 Arc 1,9 TiD#limuzina 4V#1910#120#12#200#276640
+Mercedes#S 320 CDI#limuzina 4V#2987#235#8#250#689356
+BMW#325d#limuzina 4V#2993#197#7#235#320168
+Opel#Astra GTC 1,4#k limuzina 3V#1364#90#14#180#112089
+Citroen#C1 1,0#k limuzina 3V#998#68#14#157#68700
+Nissan#Murano 3,5 V6#SUV#3498#234#10#200#429500
+Chrysler#300C 3,0 CRD#limuzina 4V#2987#218#8#230#373353
+Peugeot#207 CC 1,6 VTi 120#kabriolet#1598#120#11#200#144400
+Volkswagen#Polo 1,4#k limuzina 3V#1390#80#12#175#92018
+Mercedes#C 200 CDI T#karavan#2148#136#10#215#288340
+Alfa Romeo#Brera 2,4 JTD#coupe 2V#2387#200#8#228#318200
+Opel#Vectra 1,8 16v#limuzina 4V#1796#140#11#205#164845
+Ferrari#F430#coupe#4307#490#4#315#1074177
+Saab#9-5 Wagon Arc 1,9 TiD#karavan#1910#150#10#205#319200
+Smart#ForTwo coupe 33 CDI#coupe#799#45#20#145#109345
+Mercedes#A 180 CDI#k limuzina 3V#1992#109#11#186#181471
+Alfa Romeo#147 1,9 JTD#k limuzina 5V#1910#120#10#193#138294
+Fiat#Panda 1,2 8v#k limuzina 3V#1242#60#14#155#73926
+Suzuki#Grand Vitara 1,6 JX-A#terensko#1328#86#16#140#119900
+Skoda#Roomster 1,4 16v#k limuzina 5V#1390#86#13#171#122995
+BMW#530i#limuzina 4V#2996#272#6#250#418983
+Skoda#Roomster 1,6 16v#k limuzina 5V#1598#105#11#184#124407
+Fiat#Linea 1,3 JTD#limuzina 4V#1248#90#14#170#107748
+Renault#Megane Berline 1,9 dCi#k limuzina 5V#1870#130#9#200#163900
+Jaguar#XKR 4,2 coupe#coupe#4196#396#5#250#877855
+Mercedes#SL 350#kabriolet#3498#316#6#250#844522
+Chrysler#PT Cruiser 2,2 CRD limited#monovolumen#2429#143#12#171#241774
+Mazda#6 CD140 CE#limuzina 4V#1998#140#10#204#182854
+Renault#Espace 2,0 16v turbo#monovolumen#1998#163#10#205#239000
+Renault#Scenic conquest 1,5 dCi#monovolumen#1461#106#12#178#182100
+BMW#120d#k limuzina 5V#1995#177#8#228#216384
+Ford#Focus 1,6 TDCi#k limuzina 5V#1560#109#11#188#131794
+Volkswagen#Caddy maxi life 1,6#monovolumen#1598#102#14#164#165714
+Rover#75 Tourer 2,0 CDTi#karavan#1996#131#11#185#273453
+Mini#Cooper clubman#karavan#1598#120#10#201#166839
+Skoda#Octavia RS#k limuzina 5V#1984#200#7#240#187642
+Volkswagen#Golf 2,0 TDI#k limuzina 3V#1968#140#9#205#159064
+BMW#320i#kabriolet#1995#170#9#228#356896
+Peugeot#206 1,4#k limuzina 3V#1360#75#13#171#77100
+Audi#A3 sb 2,0 TDI#k limuzina 5V#1968#140#10#207#221829
+BMW#118d#k limuzina 3V#1995#143#9#210#189418
+Mitsubishi#L200 2,5 DI-D CC#terensko#2477#136#15#167#164990
+Volkswagen#Touran 1,6#monovolumen#1598#102#13#179#157115
+Volkswagen#Sharan 1,8 T#monovolumen#1781#150#11#199#217936
+Chrysler#Sebring 2,4 limited#limuzina 4V#2360#170#10#200#232229
+Audi#A8 2,8 FSI multitronic#limuzina 4V#2773#210#8#238#60963
+Seat#Altea 1,8 TSI#monovolumen#1781#160#8#216#167284
+Peugeot#308 1,6 VTi#k limuzina 5V#1598#120#11#195#128900
+Toyota#Yaris 1,3 VVT-i#k limuzina 5V#1296#87#12#170#110210
+Nissan#Note 1,6#k limuzina 5V#1598#110#11#183#111600
+Skoda#Fabia 1,9 TDI PD#k limuzina 5V#1896#105#11#190#111896
+Volkswagen#Passat Variant 2,0 TDI#karavan#1968#140#10#206#217985
+BMW#X5 3,0d#SUV#2993#235#8#210#507650
+Ford#Fiesta 14i#k limuzina 5V#1388#80#13#166#83842
+Citroen#C6 2,7 HDI#limuzina 4V#2720#208#9#230#379500
+Mitsubishi#Colt CZT 1,5 turbo#coupe#1468#150#8#210#134500
+Opel#Vectra 1,9 CDTI#k limuzina 5V#1910#150#10#217#202031
+Nissan#350Z#coupe#3498#313#6#250#368000
+BMW#118i#k limuzina 3V#1995#143#9#210#181945
+Volkswagen#Polo 1,2#k limuzina 3V#1198#60#17#157#77880
+Toyota#Corolla Verso 1,8 VVT-i#monovolumen#1794#129#10#185#185475
+Daihatsu#Sirion 1,5#k limuzina 5V#1495#103#11#180#122100
+Nissan#Patrol 3,0 DDTI 3V#terensko#2953#160#15#160#300600
+Opel#Astra GTC 1,9 CDTI#k limuzina 3V#1910#150#9#210#158463
+Seat#Toledo 2,0 TDI 16v#k limuzina 5V#1968#140#10#201#192089
+Volkswagen#Cross Polo 1,4 TDI#k limuzina 5V#1422#70#16#160#128987
+Suzuki#Splash 1,25 DDiS#k limuzina 5V#1248#75#14#162#96900
+Land Rover#Range Rover 3,6 TdV8#terensko#3630#272#9#200#721789
+Volkswagen#Passat Variant 1,8 TSI#karavan#1798#160#9#217#206219
+Alfa Romeo#147 1,9 JTD#k limuzina 3V#1910#120#10#193#136086
+Volvo#XC 60 T6#SUV#2953#285#8#210#400500
+Volkswagen#Beetle 1,8 T cabrio#kabriolet#1781#150#9#203#220264
+Lexus#LS 460#limuzina 4V#4608#381#6#250#773300
+Dodge#Avenger 2,0#limuzina 4V#1998#156#12#190#184956
+Renault#Clio Grandtour 1,5 dCi#karavan#1461#70#13#162#125700
+Alfa Romeo#159 2,2 JTS#limuzina 4V#2198#185#9#222#244200
+Mini#One#k limuzina 3V#1397#95#11#185#141968
+Opel#Astra GTC 2,0 turbo#k limuzina 3V#1998#200#8#234#187750
+Audi#A3 cabriolet 1,8 TFSI#kabriolet#1798#160#8#218#242500
+Mercedes#ML 320 CDI#terensko#2987#224#9#215#511361
+Citroen#C6 2,2 HDI#limuzina 4V#2179#173#10#217#341500
+Rover#75 2,0 V6#limuzina 4V#1998#150#9#210#235627
+Renault#Koleos 2,0 dCi#terensko#1995#150#12#179#245500
+Smart#ForTwo coupe 45kW#coupe#999#61#17#145#84293
+Seat#Toledo 1,9 TDI#k limuzina 5V#1896#105#12#183#160883
+Mini#Cooper D clubman#karavan#1560#110#10#193#178628
+Citroen#C5 2,2 HDI#limuzina 4V#2179#173#10#219#243900
+Ford#C-Max 1,8 TDCi#monovolumen#1753#115#11#188#147918
+Renault#Scenic 1,6 16v#monovolumen#1598#111#13#185#141200
+Citroen#C5 2,7 V6 HDI#limuzina 4V#2720#208#10#224#276400
+Audi#A5 3,2 TFSI multitronic#coupe 2V#3197#265#7#250#320458
+Suzuki#SX4 1,5#terensko#1490#99#11#175#93150
+Hyundai#i30 1,6 16v HP#k limuzina 5V#1591#122#11#192#146254
+Volkswagen#Polo 1,6#k limuzina 3V#1598#105#10#192#97128
+Alfa Romeo#166 2,4 JTD 20V#limuzina 4V#2387#175#9#222#301550
+Ford#S-Max 2,0#monovolumen#1999#145#11#197#208677
+Ford#Focus 1,8 TDCi#k limuzina 3V#1753#115#11#190#120815
+BMW#318d#limuzina 4V#1995#143#9#210#234728
+Ford#Fiesta 14 TDCi#k limuzina 3V#1398#68#16#163#90280
+Skoda#Fabia 1,4 16v#k limuzina 5V#1390#86#12#174#104979
+Audi#A4 1,8 TFSI#limuzina 4V#1798#160#9#225#212253
+Renault#Kangoo 1,6#monovolumen#1598#110#13#170#116900
+Seat#Altea XL 1,6i MPI#monovolumen#1595#102#13#181#130662
+Mercedes#ML 350#terensko#3498#272#8#225#500057
+Alfa Romeo#147 1,6 TS#k limuzina 5V#1598#105#11#185#125782
+Seat#Ibiza 1,4 16v#k limuzina 5V#1390#85#12#175#87872
+Fiat#Doblo panorama 1,4#k limuzina 5V#1368#87#16#150#96126
+Peugeot#307 CC 1,6 16v#kabriolet#1587#110#13#191#181000
+Lexus#GS 300#limuzina 4V#2995#249#7#240#376142
+Fiat#Croma 1,9 JTD#k limuzina 5V#1910#120#11#195#173900
+Chevrolet#Lacetti 1,6#limuzina 4V#1598#109#11#187#114120
+Subaru#Impreza 1,5 R MT#k limuzina 5V#1498#105#12#177#147000
+Mercedes#E 280 CDI T#karavan#2987#190#9#231#424168
+Chevrolet#Spark 0,8#k limuzina 5V#796#51#17#144#51532
+Volvo#S 60 2,4#limuzina 4V#2435#140#10#210#234000
+Daihatsu#Sirion 1,3#k limuzina 5V#1298#91#11#175#101370
+Suzuki#Grand Vitara 1,9 SE#terensko#1870#129#13#170#209900
+Chevrolet#Lacetti sw 1,8#karavan#1799#122#10#194#121094
+Toyota#Prius#k limuzina 5V#1496#110#11#170#200514
+Peugeot#308 1,6 HDi#k limuzina 5V#1560#90#13#180#135900
+Volkswagen#Eos 2,0 TDI#kabriolet#1968#140#10#206#223441
+Volkswagen#Touran 1,9 TDI#monovolumen#1896#105#15#171#179720
+Citroen#C3 1,4 HDI#k limuzina 5V#1398#68#13#165#125100
+Ford#Focus 1,6 16v#k limuzina 3V#1595#100#12#180#107237
+Mazda#2 1,3i TE#k limuzina 5V#1349#86#13#172#103425
+Opel#Vectra 1,6 16v#limuzina 4V#1598#105#12#185#160449
+BMW#X5 3,0sd#SUV#2993#286#7#235#558718
+BMW#523i#limuzina 4V#2497#190#8#237#334466
+Land Rover#Range Rover 4,2 V8#terensko#4197#396#8#210#1075686
+BMW#116i#k limuzina 3V#1596#122#10#204#154385
+Mercedes#CLK 220 CDI#coupe#2148#150#10#221#390101
+Mazda#2 1,5i GT#k limuzina 5V#1498#103#10#188#122175
+Volkswagen#Golf Plus 1,4#monovolumen#1390#80#15#165#134184
+BMW#320d#limuzina 4V#1995#177#8#230#270351
+Opel#Vectra karavan 1,9 CDTI#karavan#1910#150#10#217#226502
+Opel#Astra 2,0T#k limuzina 5V#1998#170#9#217#164094
+Mercedes#E 220 CDI T#karavan#2148#170#9#218#400582
+Kia#Carens 2,0#monovolumen#1998#145#11#190#129990
+Opel#Zafira 1,9 CDTi#monovolumen#1995#100#14#176#162288
+Porsche#Cayenne S#SUV#4806#385#7#252#631692
+Mitsubishi#Pajero LWB 3,2 DI-D#terensko#3200#160#13#177#292000
+Peugeot#207 SW 1,6 HDi#karavan#1560#90#12#182#121300
+Opel#Vectra karavan 2,2#karavan#2198#155#10#210#200485
+Porsche#Boxter#coupe#2687#245#6#258#422919
+Ford#Focus 1,6 TDCi#karavan#1560#90#13#177#120815
+Fiat#Croma 2,2#k limuzina 5V#2198#147#10#210#179080
+BMW#630ci#kabriolet#2996#272#7#250#751485
+Volkswagen#Polo GTI#k limuzina 3V#1781#150#8#216#137114
+Mitsubishi#Colt CZC 1,5#kabriolet#1499#109#10#183#142500
+Fiat#500 1,3 MJT#k limuzina 3V#1248#75#13#165#122100
+Renault#Megane Sedane 1,5 dCi#limuzina 4V#1461#85#13#174#135900
+Volkswagen#Jetta 2,0 TDI#limuzina 4V#1968#140#10#207#190284
+Kia#Picanto 1,1#k limuzina 5V#1086#65#15#154#84990
+Volkswagen#Polo 1,9 TDI#k limuzina 3V#1896#100#11#188#111519
+Citroen#C5 2,0i#karavan#1997#143#11#210#201900
+Seat#Cordoba 1,4 TDI#limuzina 4V#1422#70#13#171#98843
+Renault#Clio Storia 1,2#k limuzina 5V#1149#60#15#158#79100
+Toyota#Corolla SD 2,0 D-4D#limuzina 4V#1998#126#10#200#167240
+Audi#A5 2,7 TDI multitronic#coupe 2V#2698#190#8#232#377162
+Volkswagen#Passat Variant 1,6#karavan#1595#102#13#187#187217
+Hyundai#i30 1,4 16v#k limuzina 5V#1396#109#12#187#98847
+Dodge#Caliber 2,0 SXT#k limuzina 5V#1998#156#11#186#166803
+Mercedes#S 350#limuzina 4V#3498#272#7#250#722622
+Citroen#Berlingo 1,4i#monovolumen#1360#75#18#150#94810
+Ssangyong#Rexton 270 Xdi#terensko#2696#165#13#177#236075
+Saab#9-5 Wagon Arc 2,0 LPT#karavan#1985#150#10#210#304000
+Hyundai#Tucson 2,0 2WD#SUV#1975#141#11#180#139376
+Peugeot#207 1,4 HDi#k limuzina 3V#1398#68#15#166#99300
+Daihatsu#Materia 1,3#monovolumen#1298#91#12#169#127170
+Lada#118 1,6i#limuzina 4V#1596#82#14#160#56000
+Opel#Corsa OPC#k limuzina 3V#1598#192#7#225#167440
+Kia#Picanto 1,0#k limuzina 5V#999#60#16#149#56999
+Seat#Leon FR 2,0 TDI#k limuzina 5V#1968#170#8#214#194620
+Jaguar#XF 3,0 V6#limuzina 4V#2967#238#8#237#418850
+Lexus#IS 250#k limuzina 5V#2500#208#8#230#274170
+Skoda#Octavia 1,6 16v#k limuzina 5V#1595#102#12#190#123263
+Audi#A6 2,0 TFSI#limuzina 4V#1984#170#8#227#310954
+Mercedes#E 420 CDI#limuzina 4V#3996#314#6#250#610476
+Ssangyong#Rodius 2,7 Xdi#monovolumen#2696#165#14#174#236075
+Peugeot#407 1,6 HDi#limuzina 4V#1560#109#13#192#180400
+Bentley#Arnage R#limuzina 4V#6752#507#6#288#2854896
+Opel#Corsa 1,3 CDTI#k limuzina 3V#1248#75#15#163#99286
+Ford#Fiesta 14 TDCi#k limuzina 5V#1398#68#16#163#92855
+Audi#A3 1,8 TFSI#k limuzina 3V#1798#160#8#220#188509
+BMW#M5#limuzina 4V#4999#507#5#250#923887
+Honda#Civic 1,4#k limuzina 5V#1339#83#15#170#154990
+Audi#Q7 4,2 FSI quattro tiptronic#SUV#4163#350#7#244#627821
+Ford#Mondeo 2,3#k limuzina 5V#2261#160#9#207#209334
+Seat#Alhambra 2,0 TDI#k limuzina 5V#1968#140#12#192#244577
+Volkswagen#Golf GTI#k limuzina 3V#1984#200#7#235#195290
+Audi#A4 3,0 TDI quattro#limuzina 4V#2967#240#6#250#357599
+Mercedes#C 63 AMG#limuzina 4V#6208#457#5#250#638920
+Opel#Vectra OPC#k limuzina 5V#1792#280#7#250#271585
+Lexus#IS 220d#k limuzina 5V#2231#177#9#220#245014
+BMW#118d#k limuzina 5V#1995#143#9#210#196305
+Chrysler#300C touring 6,1 SRT8#karavan#6059#432#5#274#527192
+Subaru#Legacy 2,0 SW#karavan#1994#165#10#204#245000
+Ford#Mondeo 2,0 TDCi#karavan#1997#140#10#205#230621
+Renault#Clio 1,2#k limuzina 3V#1149#75#13#167#91000
+Volvo#XC 70 D5#karavan#2401#163#11#210#390000
+Toyota#Yaris 1,0 VVT-i#k limuzina 5V#998#69#16#155#81527
+Volkswagen#Golf 1,4 TSI#k limuzina 3V#1390#122#9#197#151021
+BMW#120d#k limuzina 3V#1995#177#8#228#209298
+Seat#Cordoba 1,9 TDI#limuzina 4V#1896#100#11#192#108374
+Rover#25 1,4 16v C1#k limuzina 3V#1396#103#10#180#116636
+Volvo#V 50 2,0d#karavan#1998#136#10#210#231000
+Rover#75 1,8 16v#limuzina 4V#1796#120#11#195#203582
+Chevrolet#Spark 1,0 8v#k limuzina 5V#995#64#15#144#66335
+BMW#118i#k limuzina 5V#1995#143#9#210#188634
+Seat#Ibiza 1,9 TDI#k limuzina 5V#1896#105#11#186#109973
+Renault#Grand Scenic 1,6#monovolumen#1598#112#12#180#147200
+Volvo#S 40 1,6d#limuzina 4V#1560#110#12#190#194250
+Opel#Corsa 1,3 CDTI#k limuzina 3V#1248#90#13#172#128723
+Skoda#Fabia Combi 1,4#karavan#1390#86#13#175#106128
+Seat#Toledo 2,0 FSI#k limuzina 5V#1984#150#10#206#190535
+Citroen#C4 1,4i 16v#k limuzina 3V#1360#88#13#182#118800
+Toyota#Corolla SD 1,4 VVT-i#limuzina 4V#1398#97#13#170#127937
+Mercedes#E 320 CDI#limuzina 4V#2987#224#7#250#453936
+Citroen#C4 1,6 HDI#k limuzina 5V#1560#90#13#180#146300
+Opel#Meriva 1,3 CDTI#k limuzina 5V#1248#75#18#156#121146
+Mercedes#CLK 280#kabriolet#2996#231#8#250#460139
+BMW#530d touring#karavan#2993#235#7#245#446543
+Peugeot#407 Coupe 2,7 HDi#coupe#2720#204#9#230#317000
+Fiat#Sedici 1,9 MJET#k limuzina 5V#1910#120#11#180#161882
+Ford#Mondeo 1,6 Ti-VCT#karavan#1596#110#13#185#175404
+Kia#Spotage 2,0#SUV#1975#142#10#180#149900
+Seat#Leon 1,9 TDI#k limuzina 5V#1896#105#11#185#138306
+Porsche#911 Carrera S Coupe#coupe#3824#355#5#293#905436
+Nissan#X-Trail 2,0 dCi SE#SUV#1995#173#10#200#260000
+Volvo#V 70 D5#karavan#2401#185#9#225#364500
+Dacia#Logan MCV 1,4#karavan#1390#75#16#155#66900
+Volkswagen#Golf Plus 2,0 TDI#monovolumen#1968#140#10#202#170598
+Alfa Romeo#159 2,4 JTD#limuzina 4V#2387#200#8#228#273982
+Porsche#Cayman#coupe#2687#245#6#258#457611
+Lancia#Ypsilon 1,4 16v#k limuzina 3V#1369#95#11#175#116576
+Honda#Accord tourer 2,0#karavan#1997#156#9#215#230900
+Skoda#Octavia Combi 4x4 2,0 FSI#karavan#1984#150#10#202#185576
+Nissan#Qashqai 1,5 dCi#SUV#1461#105#12#174#155000
+Citroen#C3 pluriel 1,4i#kabriolet#1360#73#14#164#131500
+Mazda#3 sport 2,0i GTA#k limuzina 5V#1999#150#9#200#167509
+Rover#75 2,0 CDT#limuzina 4V#1996#116#11#190#239870
+Audi#TT 3,2 quattro#coupe 2V#3189#250#6#250#376392
+Mazda#6 sport combi 1,8i TE#karavan#1798#120#12#194#185824
+Renault#Vel Satis 3,0 V6 dCi#k limuzina 5V#3498#177#11#210#403400
+Skoda#Roomster 1,2 12v#k limuzina 5V#1198#70#17#155#96039
+Seat#Leon FR 2,0 TSI#k limuzina 5V#1984#185#8#221#180379
+Chrysler#Sebring cabrio 2,7 limited#kabriolet#2736#186#9#210#297878
+Honda#CR-V 2,0#SUV#1997#150#10#190#224990
+Jeep#Compass 2,4 CVT#terensko#2359#170#11#183#222903
+Fiat#Grande punto 1,4#k limuzina 5V#1368#77#13#165#87320
+Peugeot#207 SW 1,6 VTi#karavan#1598#120#10#200#111100
+Volkswagen#Cross Golf 1,6#k limuzina 5V#1595#102#12#173#170512
+BMW#120i#k limuzina 5V#1995#170#8#224#221696
+Peugeot#407 Coupe 3,0 V6#coupe#2946#211#9#243#306000
+Volvo#S 80 3,2#limuzina 4V#3192#238#8#240#383250
+Land Rover#Dicsovery 4,4i V8#terensko#4394#299#9#195#516224
+Volvo#XC 60 D5#SUV#2400#185#10#205#335175
+Skoda#Fabia 1,2 12v#k limuzina 5V#1198#60#17#155#74431
+Nissan#Tiida 1,6#k limuzina 5V#1598#110#11#186#119900
+Volkswagen#Jetta 1,9 TDI#limuzina 4V#1896#105#12#189#165285
+Opel#Astra karavan 1,9 CDTI#karavan#1910#150#9#207#153580
+Renault#Laguna 2,0 dCi#limuzina 4V#1995#150#10#210#198000
+Renault#Clio sport#k limuzina 3V#1998#197#14#215#158900
+Renault#Laguna 2,0 dCi#limuzina 4V#1995#130#11#204#193000
+Nissan#Pathfinder 2,5 dCi XE#terensko#2500#174#12#175#296550
+Lancia#Musa 1,9 MJT#k limuzina 5V#1910#100#12#179#139786
+Skoda#Superb 1,8 TS#limuzina 4V#1798#160#9#220#206644
+Alfa Romeo#159 SW 2,4 JTD#karavan 5V#2387#200#8#228#285120
+Mitsubishi#Lancer 1,8#limuzina 4V#1798#109#12#191#145300
+Lancia#Ypsilon 1,2 8v#k limuzina 3V#1242#60#17#153#96515
+Mitsubishi#Lancer 1,8#limuzina 4V#1499#109#12#191#135000
+Mazda#3 sport 1,6i TE#k limuzina 5V#1598#105#12#174#126195
+Lancia#Musa 1,3 MJT#k limuzina 5V#1248#70#15#159#125726
+Volkswagen#Eos 1,4 TSI#kabriolet#1390#122#11#196#194368
+Renault#Clio Exception 1,5 dCi#k limuzina 5V#1461#105#7#190#139500
+Renault#Megane CC 1,6 16v#kabriolet#1598#110#12#195#172700
+Ford#Focus 1,6 16v#k limuzina 5V#1595#100#12#180#109719
+Renault#Twingo 1,5 dCi#k limuzina 3V#1461#65#15#164#96100
+BMW#520i#limuzina 4V#1995#170#9#224#312911
+Renault#Laguna Grandtour 2,0#karavan#1997#140#9#205#192000
+BMW#730i#limuzina 4V#2996#258#8#244#644415
+Mazda#5 2,0i GTA#monovolumen#1999#145#11#196#218105
+Volkswagen#Touareg V6 TDI automatic#SUV#2967#240#8#209#418957
+Chevrolet#Captiva 2,4#SUV#2405#136#12#183#240130
+Citroen#C5 1,8i#limuzina 4V#1749#127#12#200#183900
+Ford#Focus 1,6 TDCi#k limuzina 3V#1560#90#13#177#114653
+BMW#X3 3,0si#SUV#2996#272#7#210#403145
+Audi#A3 sb 1,8 TFSI#k limuzina 5V#1798#160#8#220#208892
+Rover#25 2,0 16v TD C1#k limuzina 3V#1994#101#10#182#134750
+Jaguar#XJ6 3,0 V6#limuzina 4V#2967#238#8#233#648327
+Ford#Mondeo 1,8 TDCi#k limuzina 5V#1753#100#12#185#180251
+BMW#120d#coupe 2V#1995#177#8#228#223721
+Jeep#Patriot 2,0#terensko#1968#140#11#189#206323
+Rover#75 Tourer 2,0 16v#karavan#1998#150#10#203#245947
+Mazda#5 1,8i CE#monovolumen#1798#115#11#182#155009
+Dodge#Caliber 2,0 CRD#k limuzina 5V#1968#140#9#196#185865
+Suzuki#Splash 1,0#k limuzina 5V#997#65#15#160#64900
+Ford#Focus ST#k limuzina 3V#2522#225#7#241#197253
+Chrysler#300C 3,5 automatic#limuzina 4V#3518#253#9#219#351427
+Opel#Astra GTC 1,6#k limuzina 3V#1598#105#12#187#116405
+Nissan#Micra CC 1,4#kabriolet#1386#88#13#176#140840
+Audi#A8 4,2 TDI quattro tiptronic#limuzina 4V#4134#326#6#250#813740
+BMW#750i#limuzina 4V#4799#367#6#250#796882
+Volvo#V 70 3,2#karavan#3192#238#8#235#398250
+Citroen#C3 1,4 HDI#k limuzina 5V#1398#68#13#165#118000
+Volkswagen#Passat 1,6#limuzina 4V#1595#102#12#190#176704
+Citroen#C5 1,6 HDI#limuzina 4V#1560#110#14#189#183900
+Citroen#C6 3,0i V6#limuzina 4V#2946#205#9#230#357000
+Ford#Mondeo 1,6 Ti-VCT#k limuzina 5V#1596#110#13#190#165023
+BMW#318d touring#karavan#1995#143#10#210#251047
+Kia#Sorento 2,5 CRDi#terensko#2497#170#12#182#210000
+Audi#A3 2,0 TDI#k limuzina 3V#1968#140#10#207#200352
+Chrysler#300C touring 3,5 AWD#karavan#3518#249#9#219#395773
+Renault#Vel Satis 3,0 V6 dCi#k limuzina 5V#2958#241#8#235#403400
+Citroen#C5 1,6 HDI#karavan#1560#110#14#189#193900
+Opel#Astra 1,8#k limuzina 5V#1796#125#11#198#123540
+Mercedes#C 200 CDI#limuzina 4V#2148#136#10#215#269862
+Citroen#C4 picasso 1,6 HDI#monovolumen#1560#109#13#180#171500
+Rover#25 1,6 16v C1#k limuzina 5V#1589#109#10#185#122357
+Rover#45 1,4 16v C1#k limuzina 5V#1396#103#11#185#135694
+Ford#Fiesta 1,6 TDCi#k limuzina 3V#1560#90#12#180#102645
+Lexus#RX 350#terensko#4394#276#8#200#448440
+Hyundai#Getz 1,1#k limuzina 3V#1086#66#16#150#61776
+Volkswagen#Passat 2,0 TDI#limuzina 4V#1968#140#10#209#207370
+Opel#Corsa 1,2 16v#k limuzina 3V#1229#80#14#168#87878
+BMW#M6#coupe 2V#4999#507#5#250#1170963
+Subaru#Forester 2,0 MT ZM#karavan#1994#158#10#197#224000
+Rover#25 2,0 16v TD C1#k limuzina 3V#1994#113#9#185#137269
+Fiat#Multipla 1,9 JTD#monovolumen#1910#120#12#176#164443
+Volkswagen#Beetle 1,8T#k limuzina 3V#1781#150#9#203#179865
+Hyundai#i10 1,1#k limuzina 5V#1086#66#15#152#65396
+Nissan#Note 1,5 dCi#k limuzina 5V#1461#86#13#168#110000
+BMW#520d#limuzina 4V#1995#177#8#231#334268
+Ford#Fusion 1,4i#k limuzina 5V#1388#80#14#163#90657
+Citroen#Berlingo 1,6 HDI#monovolumen#1560#75#20#150#112145
+Hyundai#Coupe 2,7 V6 24v#coupe#2656#167#8#220#189365
+Chevrolet#Tacuma 2,0 CDX#monovolumen#1998#121#11#188#129108
+Fiat#Panda 1,1 8v#k limuzina 3V#1108#54#15#150#66526
+Skoda#Fabia Combi 1,2#karavan#1198#70#15#164#87552
+Dodge#Caliber 1,8#k limuzina 5V#1789#150#13#170#146180
+Audi#A3 1,6#k limuzina 3V#1595#102#12#185#150901
+Mazda#MX-5 1,8i#kabriolet#1798#126#9#196#151742
+Ford#Focus 1,4 16v#k limuzina 5V#1388#80#14#164#99739
+Mitsubishi#Colt 1,3#k limuzina 5V#1332#95#11#180#95500
+Toyota#Yaris 1,3 VVT-i#k limuzina 3V#1296#87#12#170#96516
+Audi#R8 4,2 FSI quttro#coupe#4163#420#5#301#977225
+Seat#Altea 2,0 FSI FR#monovolumen#1896#105#12#183#192259
+Daihatsu#Terios 1,5 DVVT#SUV#1495#105#12#180#166200
+Opel#Meriva 1,7 CDTI#k limuzina 5V#1686#100#13#178#142928
+Mitsubishi#Grandis 2,4#monovolumen#2378#165#10#200#185000
+Opel#Astra OPC#k limuzina 3V#1998#240#6#244#225065
+Nissan#Micra 1,5 dCi#k limuzina 5V#1461#86#13#168#92500
+Peugeot#207 1,4#k limuzina 5V#1360#75#16#170#97100
+Skoda#Octavia Tour 1,4 16v#k limuzina 5V#1389#75#16#170#94867
+Chevrolet#Aveo 1,4 16v#limuzina 4V#1399#94#11#176#83475
+Daihatsu#Sirion 1,0#k limuzina 5V#998#70#14#160#89250
+Peugeot#1007 1,4 HDI#k limuzina 3V#1398#68#15#160#123000
+Ford#Fusion 1,6i#k limuzina 5V#1596#101#11#180#102889
+Seat#Altea XL 2,0 TDI#monovolumen#1968#140#10#201#180649
+Skoda#Octavia Combi 4x4 2,0 TDI#karavan#1968#140#13#181#198520
+Mercedes#C 220 CDI T#karavan#2148#170#9#224#312786
+Ford#S-Max 2,5#monovolumen#2521#220#8#230#263208
+BMW#320i touring#karavan#1995#170#8#226#261708
+Ford#Mondeo 2,0#k limuzina 5V#1999#145#10#210#183205
+Citroen#C5 2,0 HDI#limuzina 4V#1997#138#12#204#203900
+Toyota#RAV4 2,0 VVT-i#SUV#1998#152#11#185#225215
+Toyota#Aygo 1,0#k limuzina 3V#998#68#14#157#69018
+Fiat#Grande punto 1,9 JTD#k limuzina 3V#1910#120#10#190#138750
+Mercedes#A 160 CDI#k limuzina 3V#1992#82#15#170#169660
+Ford#Fiesta 2,0 ST#k limuzina 3V#1999#150#8#208#121308
+Mazda#2 1,3i CE#k limuzina 5V#1349#75#14#168#82425
+Mercedes#G 320 CDI#terensko#2987#224#9#177#656009
+Volvo#S 40 2,0d#limuzina 4V#1998#136#10#210#219750
+Daihatsu#Materia 1,5#monovolumen#1495#103#11#170#138840
+Rover#75 2,0 CDTi#limuzina 4V#1996#131#10#190#246029
+Audi#A6 allroad 3,0 TDI#limuzina 4V#2967#233#8#231#457456
+Suzuki#Swift 1,3#k limuzina 3V#1328#92#11#175#67500
+Renault#Scenic 1,5 dCi#monovolumen#1461#105#12#178#161000
+Opel#Corsa 1,4 16v#k limuzina 3V#1364#90#12#173#96710
+Mazda#3 2,0i GT#limuzina 4V#1999#150#9#200#163592
+Ford#Fiesta 1,25i#k limuzina 3V#1242#75#15#163#73445
+Rover#25 1,4 16v C1#k limuzina 5V#1396#103#10#180#122112
+Toyota#Corolla SD 1,4 D-4D#limuzina 4V#1364#90#12#175#141668
+Volkswagen#Passat 1,9 TDI#limuzina 4V#1896#105#12#188#190384
+Suzuki#Grand Vitara 1,9 JLX-A#terensko#1586#106#14#160#174900
+BMW#318i#limuzina 4V#1995#143#9#210#220714
+Volkswagen#Golf Plus 1,9 TDI#monovolumen#1896#90#14#173#165451
+Mercedes#CLS 320 CDI#limuzina 4V#2987#224#7#246#560231
+Land Rover#Range Rover 4,4 V8 sport#terensko#4394#299#9#195#631331
+Opel#Astra 1,7 CDI#k limuzina 5V#1686#80#15#168#127670
+Porsche#Cayenne#SUV#3597#290#8#227#485208
+Mercedes#C 350#limuzina 4V#3498#272#6#250#410460
+Bentley#Arnage T#limuzina 4V#6752#457#6#270#3086800
+Dacia#Logan 1,4#limuzina 4V#1390#75#13#162#58800
+Ford#Focus 1,8 TDCi#k limuzina 5V#1753#115#11#188#123282
+Mazda#3 sport CD110 TX#k limuzina 5V#1560#110#11#185#154413
+Suzuki#Swift 1,5#k limuzina 5V#1490#99#10#185#93900
+Fiat#Idea 1,2 16v#monovolumen#1242#80#14#163#113627
+Peugeot#207 1,6 HDi#k limuzina 5V#1560#90#12#182#129800
+Opel#Astra Classic 1,6#limuzina 4V#1598#100#12#188#98569
+Mercedes#E 200 CDI#limuzina 4V#2148#136#10#214#348441
+Audi#A4 avant 2,0 TDI#karavan 5V#1968#143#10#215#256149
+Renault#Scenic 1,9 dCi#monovolumen#1870#130#10#192#182000
+Mercedes#C 230#limuzina 4V#2496#204#8#240#326545
+Skoda#Fabia 1,2 12v#k limuzina 5V#1198#70#15#163#83607
+Renault#Koleos 2,0 dCi#terensko#1995#175#10#189#266500
+Mercedes#SL 500#kabriolet#5461#388#5#250#1075319
+Mitsubishi#Colt CZ3 1,3#k limuzina 3V#1332#95#11#180#99900
+Mazda#3 sport CD90 CE#k limuzina 5V#1560#90#12#174#127342
+Skoda#Octavia 2,0 TDI#k limuzina 5V#1968#140#10#208#161061
+Lada#Niva 1,7i#terensko#1690#81#19#138#65000
+Peugeot#1007 1,6#k limuzina 3V#1587#110#12#190#119000
+Kia#Cee'd sw 1,4#karavan#1396#109#12#187#110990
+BMW#630ci#coupe 2V#2996#272#6#250#658685
+Mercedes#GL 320 CDI#terensko#2987#224#10#210#673480
+Suzuki#SX4 1,9#terensko#1910#120#11#180#139900
+Hyundai#Tucson 2,0 CRDi 4WD#SUV#1991#140#11#178#207830
+Renault#Clio Grandtour 1,2#karavan#1149#100#16#183#112500
+Skoda#Superb 2,0 TDI#limuzina 4V#1968#140#10#207#215510
+Nissan#Tiida 1,8#k limuzina 5V#1797#126#10#195#133500
+Fiat#Multipla 1,6 16v#monovolumen#1581#103#13#168#186643
+Alfa Romeo#166 3,2 V6 24V#limuzina 4V#3179#240#7#241#359640
+Alfa Romeo#147 1,6 TS#k limuzina 3V#1598#105#11#185#124050
+Alfa Romeo#GT 1,9 JTD 16V#coupe 2V#1910#150#10#209#235690
+Volvo#C 30 1,6d#k limuzina 3V#1560#110#12#190#178500
+Mercedes#E 280 CDI#limuzina 4V#2996#231#7#250#396650
+Ford#C-Max 1,8i#monovolumen#1798#125#11#193#140518
+Toyota#Yaris 1,4 D-4D#k limuzina 3V#1364#90#11#175#110719
+Volkswagen#Tiguan 1,4 TSI#SUV#1390#150#10#192#224382
+Volkswagen#Golf 2,0 FSI#k limuzina 3V#1984#150#9#209#160008
+Audi#A6 2,0 TDI#limuzina 4V#1968#140#10#210#312803
+Audi#A4 avant 1,8 TFSI#karavan 5V#1798#160#9#233#256149
+Ford#Focus 1,4 16v#karavan#1388#80#14#164#103331
+BMW#320i#limuzina 4V#1995#170#8#228#246888
+Peugeot#206 1,4 HDi#k limuzina 3V#1398#68#15#168#88600
+Citroen#C4 2,0 HDI#k limuzina 5V#1997#136#10#207#186050
+Seat#Leon 2,0 TDI#k limuzina 5V#1968#140#9#205#170274
+Chrysler#PT Cruiser 2,4 limited#monovolumen#2429#143#12#171#225410
+BMW#325i#limuzina 4V#2996#218#7#250#311777
+Citroen#C4 picasso 2,0 HDI#monovolumen#1997#136#13#195#211600
+Audi#Q7 3,0 TDI quattro tiptronic#SUV#2967#233#9#210#472157
+Alfa Romeo#Brera 2,2 JTS#coupe 2V#2198#185#9#222#280460
+Alfa Romeo#GT 3,2 V6 24V#coupe 2V#3179#240#7#243#309690
+Volkswagen#Cross Polo 1,4#k limuzina 5V#1390#80#14#170#121148
+Alfa Romeo#159 SW 1,9 JTS#karavan 5V#1859#160#10#212#224220
+Toyota#Auris 1,4 D-4D#k limuzina 3V#1364#90#12#175#125902
+Lexus#GS 450h#limuzina 4V#3456#296#6#250#550930
+Audi#A6 avant 2,0 TDI#karavan 5V#1968#140#11#205#335704
+Volkswagen#Tiguan 2,0 TDI#SUV#1968#140#11#186#241341
+Fiat#Idea 1,9 JTD#monovolumen#1910#100#12#179#145077
+Dodge#Nitro 2,8 CRD#terensko#2777#177#12#180#250266
+Chrysler#300C 6,1 SRT8#limuzina 4V#6059#432#5#274#501729
+Volvo#V 50 1,6d#karavan#1560#110#12#190#205500
+Rover#75 Tourer 1,8 16v#karavan#1796#120#11#188#222045
+Dacia#Sandero 1,4#k limuzina 5V#1390#75#13#161#55550
+Seat#Altea XL 1,9 TDI#monovolumen#1896#105#12#183#152085
+Mercedes#B 150#k limuzina 5V#1498#95#13#174#191416
+Mercedes#ML 280 CDI#terensko#2987#190#10#205#485710
+Ford#Fiesta 16i#k limuzina 5V#1596#101#11#184#93632
+Citroen#C2 1,4 HDI#k limuzina 3V#1398#68#14#166#94800
+Volkswagen#Beetle 1,4#k limuzina 3V#1390#75#15#161#135880

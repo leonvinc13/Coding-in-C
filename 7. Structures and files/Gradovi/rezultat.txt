@@ -1,0 +1,5 @@
+Hrvatska ima ukupno: 1204791 stanovnika.
+Zagreb ima 790017 stanovnika.
+Split ima 178102 stanovnika.
+Rijeka ima 128624 stanovnika.
+Osijek ima 108048 stanovnika.
